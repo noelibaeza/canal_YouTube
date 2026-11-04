@@ -17,7 +17,7 @@ Este notebook está dedicado al análisis y procesamiento de información geoesp
 * 🗺️ **[Combo Python Topografía](https://checkout.dlocalgo.com/validate/recurring/lz9CF5sZ9csO2WLc4DouXdRZBUt3wYIK)**
 * 🤖 **[Combo Inteligencia Artificial (IA)](https://checkout.dlocalgo.com/validate/recurring/Ljvw59149oT7EWkSYajKDqIV7TOFBSVp)**
 * 🌎 **[Combo Inteligencia Artificial (IA)](https://geodojo.ai/)**
-*                                           https://www.linkedin.com/company/geodojo/
+* 
 * 🙋‍♂️ **[LinkedIn Geodojo](https://geodojo.ai/)**
 * 🙋‍♀️ **[LinkedIn Noeli Baeza](https://www.linkedin.com/in/noeli-baeza-geo/)**
   
